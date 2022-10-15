@@ -2,3 +2,4 @@ My study plan
 -Belajar otodidak bahasa baru
 -rajin membaca buku
 -belajar bahasa pemrograman js
+-belajar css lebih dalam
