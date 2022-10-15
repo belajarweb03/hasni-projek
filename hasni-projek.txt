@@ -1,5 +1,5 @@
 My study plan
--Belajar otodidak bahasa baru
+-memperkuat belajar bahasa pemrograman
 -rajin membaca buku
 -belajar bahasa pemrograman js
 -belajar css lebih dalam
